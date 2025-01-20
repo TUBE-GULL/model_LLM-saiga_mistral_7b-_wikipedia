@@ -23,19 +23,19 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="60" height="60"/> 
  </a>
 
-<a href="https://pytorch.org/" target="_blank", rel="noreferrer" style="display: inline-block;">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
    <img src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" title="pytorch" alt="pytorch" width="60" height="60"/> 
 </a>
 
-<a href="https://huggingface.co/docs/hub/index" target="_blank", rel="noreferrer" style="display: inline-block;">
+<a href="https://huggingface.co/docs/hub/index" target="_blank" rel="noreferrer" style="display: inline-block;">
    <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" title="huggingface" alt="huggingface" width="60" height="60"/> 
 </a>
 
-<a href="https://www.llamaindex.ai/" target="_blank", rel="noreferrer" style="display: inline-block;">
+<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer" style="display: inline-block;">
    <img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" title="llamaindex" alt="llamaindex" width="60" height="60"/> 
  </a>
 
-<a href="https://www.wikipedia.org/" target="_blank", rel="noreferrer" style="display: inline-block;">
+<a href="https://www.wikipedia.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
    <img src="https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png" title="wikipedia" alt="wikipedia" width="60" height="60"/> 
  </a>
 </div>
