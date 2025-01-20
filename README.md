@@ -88,16 +88,9 @@ pip install -r requirements.txt
 ````
 ### Описание программы
 
-создал граф знаний для чат бота 
-использовать <a href = "https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora">saiga_mistral_7b_lora</a> как базу обучил его 
-отвечать через граф знаний по оперделенной теме из<a href='https://www.wikipedia.org/'>wikipedia</a>
-также добавил интерфейс для запроса уже готового чат бота 
-и добавления нового графа знаний для чат бота 
+Создан граф знаний для чат-бота с использованием модели <a href = "https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora">saiga_mistral_7b_lora</a> в качестве основы. Модель была дообучена для взаимодействия с графом знаний, позволяющим боту отвечать на вопросы по заданной теме, используя информацию из <a href='https://www.wikipedia.org/'>Wikipedia</a>, с применением подхода RAG (Retrieval-Augmented Generation).
 
+Также был добавлен интерфейс для взаимодействия с готовым чат-ботом, а также возможность добавлять новые графы знаний, что расширяет функциональность чат-бота.
 
-Создан граф знаний для чат-бота, использующего модель <a href = "https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora">saiga_mistral_7b_lora</a> в качестве основы, которая была дообучена для работы с графом знаний. Бот отвечает на вопросы по заданной теме, используя информацию из <a href='https://www.wikipedia.org/'>Wikipedia</a>.
-
-Также добавлен интерфейс для взаимодействия с готовым чат-ботом, а также возможность добавлять новые графы знаний для расширения функционала чат-бота.
-
-данная модель взята из <a href="https://huggingface.co/docs/hub/index">Hugging-Face</a> 
-<a href = "https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora">saiga_mistral_7b_lora</a>
+Модель была взята из <a href="https://huggingface.co/docs/hub/index">Hugging-Face</a> и использует
+<a href = "https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora">saiga_mistral_7b_lora</a> как базовую
